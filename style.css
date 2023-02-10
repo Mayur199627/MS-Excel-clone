@@ -29,6 +29,10 @@ body{
 .cellprops-actions-cont span{
     margin: 1rem;
 }
+
+.cellprops-actions-cont *:hover{
+    cursor: pointer;
+}
 .cellprops-actions-cont img{
     height: 20px;
     width: 20px;
